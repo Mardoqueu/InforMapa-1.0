@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InflateParams">
+        <ignore path="src/com/td/rssreader/ListActivityAnuncios.java" />
+    </issue>
+    <issue id="NewApi">
+        <ignore path="src/br/com/informapa/DetailsActivity.java" />
+        <ignore path="src/br/com/informapa/GetLocalBus.java" />
+        <ignore path="src/br/com/informapa/ListActivityCategoria.java" />
+        <ignore path="src/br/com/informapa/Mapa.java" />
+        <ignore path="src/com/td/rssreader/DetailActivity.java" />
+        <ignore path="src/com/td/rssreader/DetailActivityAnuncios.java" />
+        <ignore path="src/com/td/rssreader/ListActivity.java" />
+        <ignore path="src/com/td/rssreader/ListActivityAnuncios.java" />
+    </issue>
+</lint>

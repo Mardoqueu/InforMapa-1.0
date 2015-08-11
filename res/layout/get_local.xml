@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+  <fragment
+      android:id="@+id/mapB"
+      android:layout_width="fill_parent"
+      android:layout_height="250.0dip"
+      android:layout_alignParentBottom="true"
+      android:layout_alignParentTop="true"
+      android:layout_centerHorizontal="true"
+      class="com.google.android.gms.maps.SupportMapFragment" />
+
+    <TextView 
+        android:id="@+id/TextView1" 
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content" 
+        android:layout_below="@+id/mapB" />
+</RelativeLayout>

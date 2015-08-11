@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">InforMapa</string>
+    <string name="academia">Academia</string>
+    <string name="auto_pecas">Auto Peças</string>
+    <string name="auto_escola">Auto Escola</string>
+    <string name="bar">Bar</string>
+    <string name="farmacia">Farmácia</string>
+    <string name="grafica">Gráfica</string>
+    <string name="hospital">Hospital</string>
+    <string name="hotel">Hotel</string>
+    <string name="igreja">Igreja</string>
+    <string name="lan_house">Lan House</string>
+    <string name="lanchonete">Lanchonete</string>
+    <string name="loja_de_calcados">Loja de Calçados</string>
+    <string name="loja_de_roupas">Loja de Roupas</string>
+    <string name="padaria">Padaria</string>
+    <string name="papelaria">Papelaria</string>
+    <string name="pet_shop">Pet Shop</string>
+    <string name="pizzaria">Pizzaria</string>
+    <string name="posto_de_gasolina">Posto de Gasolina</string>
+    <string name="oficina">Oficina</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="sorveteria">Sorveteria</string>
+    <string name="salao_de_beleza">São de Beleza</string>
+    <string name="lava_jato">Lava Jato</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="loading">Carregando, por favor aguarde&#8230;</string>
+    <string name="title">Title goes here!</string>
+    <string name="date">Date goes here!</string>
+    <string name="desc">Description goes here!</string>
+    <string name="linkLabel">Link to web: </string>
+    <string name="linkText">Link goes here!</string>
+
+</resources>
